@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first Page</title>
+</head>
+<style>
+    .main{
+        width:1000px;
+        height:640px;
+        background-color: bisque;
+        align-items: center;
+        
+    }
+    .title{
+          width: 1000px;
+          height:100px;
+          background-color: aquamarine;
+    }
+    h1{
+        text-align: center;
+    }
+
+    .home{
+        width: 1000px;
+        height:40px;
+        background-color: aquamarine;
+    }
+    
+    .oo7{
+        width:200px;
+        height:40px;
+        background-color: beige;
+        float:left;
+        
+    }
+    .oo2{
+        width:200px;
+        height:40px;
+        background-color: yellowgreen;
+        float: left;
+        
+    }
+    .oo3{
+        width:200px;
+        height:40px;
+        background-color: brown;
+        float:left;
+        
+    }
+    .oo4{
+        width:200px;
+        height:40px;
+        background-color: bisque;
+        float: left;
+    }
+    .oo5{
+        width:200px;
+        height:40px;
+        background-color: lawngreen;
+        float: left;
+    
+    }
+    
+
+    .about{
+        height: 200px;
+        width:250px;
+        background-color: aqua;
+        
+
+    }
+    .ii{float: left;}
+    .uull{
+        width:250px;
+        height:200px;
+        float:left;
+    }
+
+    #hel{
+        height:40px;
+        width:250;
+        background-color: blue;
+
+    }
+    #hel1{
+        height:40px;
+        width:250;
+        background-color:green;
+
+    }
+    #hel2{
+        height:40px;
+        width:250;
+        background-color: yellow;
+
+    }
+    #hel3{
+        height:40px;
+        width:250;
+        background-color: red;
+    
+
+    }
+    #hel4{
+        height:40px;
+        width:250;
+        background-color: blue;
+        
+    }
+    
+    
+    
+    .img{
+        width:1000px;
+        height:200px;
+        background-color: blueviolet;
+    }
+    .client{
+        height:150px;
+        width: 1000px;
+        background-color:blueviolet;
+    }
+    .hari{
+        width:1000px;
+        height:100px;
+        background-color: green;
+    }
+    #uu8{
+        height:100px;
+        width:330px;
+        background-color: yellow;
+        float: left;
+        text-align: center;
+    }
+    #uu7{
+        height:100px;
+        width:330px;
+        background-color: rgb(158, 19, 133);
+        float:left;
+        text-align: center;
+    }
+    #uu6{
+        height:100px;
+        width:330px;
+        background-color: rgb(15, 214, 101);
+        float:left;
+        text-align: center;
+    }
+    .hehe{
+        width: 1000px;
+        height:50px;
+        text-align: center;
+        background-color: blanchedalmond;
+    }
+        
+    
+</style>
+<body>
+    <div  class="main">
+        <div class="title"><h1>WCCUBE</h1></div>
+        <div class="home">
+            <div class="oo7">Home</div>
+            <div class="oo2">About</div>
+            <div class="oo3">Course</div>
+            <div class="oo4">Gallery</div>
+            <div class="oo5">Contact us</div>
+        </div>
+        <div class="about">
+            <div class="uull">
+                <div id="hel">Home</div>
+                <div id="hel1">About</div>
+                <div id="hel2">Cource</div>
+                <div id="hel3">Gallery</div>
+                <div id="hel4">Contact us</div>
+            </div><div class="img"><img src ></div>
+        </div>
+        <div class="client"><h1>Our Client</h1></div>
+        <div class="hari">
+            <div id="uu8"><h4>image here</h4></div>
+            <div id="uu7"><h4>image here</h4></div>
+            <div id="uu6"><h4>image here </h4></div>
+        </div>
+        <div class="hehe">
+            <h4>Home|About|Course|Gallary|Contact Us</h4>
+        </div>
+    
+    </div>
+</body>
+</html>
